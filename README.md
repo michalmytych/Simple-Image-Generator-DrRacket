@@ -1,13 +1,11 @@
 # What's this?
-
-It's a simple image generator that draws some randomized mountains and sky that is in different color every time.  
+It's a simple image generator that draws some randomized mountains and sky that is in different color every time.
+It was created by me and my colleague during the test we took on the beginning of the semester as part of the Intro to Programming course. Our work received first place in the group.
+ 
 
 # How to run it?
-
 You must install DrRacket on your computer.
-For Windows, you can get it [here](https://download.racket-lang.org/).
-
-Just run the test.rkt file in DrRacket IDE.
+For Windows, you can get it [here](https://download.racket-lang.org/). After installation just run the test.rkt file in DrRacket mini IDE.
 
 # Examples:
 
